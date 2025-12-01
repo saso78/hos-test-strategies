@@ -282,7 +282,7 @@ Test Scenarios (ONLY):
 
     Ability to insert backdated events (up to 7 days for cycle testing)
     Ability to reset driver logs between tests
-    Ability to set specific cycle types (70/8 vs 80/7)
+    Ability to set specific cycle types (60/7 vs 70/8)
 
 Data Cleanup:
 ```python
